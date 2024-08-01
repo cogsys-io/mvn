@@ -52,6 +52,7 @@ requirements = [
     "tzlocal>=4.2",
     "humanfriendly>=10.0",
     "contexttimer>=0.3.3",
+    "ipython>=7.15.0",
 ]
 
 extra_requirements = {
