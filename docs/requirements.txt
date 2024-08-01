@@ -29,5 +29,6 @@ numpy<2.0.0
 pandas>=2.0.0
 srsly>=2.4.0
 ipython>=7.15.0
+sklearn
 
 pytest
