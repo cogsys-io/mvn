@@ -30,8 +30,8 @@ watchdog>=3.0.0
 
 # extras
 tqdm>=4
-numpy>=1.24.3
-pandas>=2.0.1
+numpy<2.0.0
+pandas>=2.2.2
 pytz>=2023.3
 scikit-learn
 ipython
