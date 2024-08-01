@@ -26,4 +26,7 @@ sphinx_bootstrap_theme
 sphinx_autodoc_typehints
 
 numpy<2.0.0
+pandas>=2.2.2
+srsly>=2.4.0
+
 pytest
